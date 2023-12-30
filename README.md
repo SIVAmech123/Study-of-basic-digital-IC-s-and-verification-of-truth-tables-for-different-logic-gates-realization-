@@ -1,6 +1,6 @@
 ## Name : R.Sivakumar
 ## Reg: 23013501
-
+## Ex-01 Studyo basic digital ICs and verification of truthtables for different logic gates realization-
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -60,10 +60,10 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ## Program:
-<img width="218" alt="Screenshot 2023-12-15 105211" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/50c25fdd-23a4-443f-be4f-76f918fbd9e1">
+<img width="186" alt="Screenshot 2023-12-30 153822" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/0082adf1-b48d-4b60-a123-5827ad6ea52f">
 
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
+
+
 
 ## Logic symbol:
 <img width="340" alt="Screenshot 2023-12-15 104852" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/2caa9806-daf9-4063-a2a7-7ca2afbce8f1">

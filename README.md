@@ -73,7 +73,7 @@ Check all the gates following the same procedure.
 <img width="767" alt="Screenshot 2024-01-03 111232" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/f7e8db46-cb1a-4131-982f-a4c81ec8a3c8">
 
 ## RTL realization:
-![Uploading Screenshot 2024-01-03 111314.png…]()
+<img width="832" alt="Screenshot 2024-01-03 111314" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/6b645229-8c30-4732-8ff8-9f3fc458d53b">
 
 
 ## Result:

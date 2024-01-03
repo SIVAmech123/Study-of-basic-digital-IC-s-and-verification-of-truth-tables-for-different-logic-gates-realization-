@@ -66,13 +66,15 @@ Check all the gates following the same procedure.
 
 
 ## Logic symbol:
-<img width="340" alt="Screenshot 2023-12-15 104852" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/2caa9806-daf9-4063-a2a7-7ca2afbce8f1">
+<img width="228" alt="Screenshot 2024-01-03 111217" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/02f4765a-33d1-4b67-b24a-b242335a3595">
 
 ## Truthtable:
-<img width="772" alt="Screenshot 2023-12-15 104936" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/5a8e3c18-a585-46e5-9dfb-adbba05cbc20">
+
+<img width="767" alt="Screenshot 2024-01-03 111232" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/f7e8db46-cb1a-4131-982f-a4c81ec8a3c8">
 
 ## RTL realization:
-<img width="841" alt="Screenshot 2023-12-15 104909" src="https://github.com/SIVAmech123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151629067/7e29820e-d270-42c4-bcd3-71579c440b09">
+![Uploading Screenshot 2024-01-03 111314.png…]()
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
